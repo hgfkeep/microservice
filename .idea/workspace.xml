@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfd35f77-bec8-4757-970c-50771cdd082d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/discovery-eureka-server/src/main/resources/application-alone.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-eureka-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-eureka-server/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +48,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/discovery-eureka-client/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/discovery-eureka-server/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -54,8 +56,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/discovery-eureka-client/src/main/resources" />
       <recent name="$PROJECT_DIR$/discovery-eureka-server/src/main/resources" />
+      <recent name="$PROJECT_DIR$/discovery-eureka-client/src/main/resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -65,7 +67,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.DiscoveryEurekaServiceConsumerApplication">
+  <component name="RunManager" selected="Application.DiscoveryEurekaServerApplication">
     <configuration name="DiscoveryEurekaServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="win.hgfdodo.discoveryeurekaserver.DiscoveryEurekaServerApplication" />
       <module name="discovery-eureka-server" />
@@ -86,9 +88,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DiscoveryEurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration name="DiscoveryEurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
       <module name="discovery-eureka-server" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="win.hgfdodo.discoveryeurekaserver.DiscoveryEurekaServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -116,6 +119,11 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
             </expand>
             <select />
           </treeState>
@@ -138,7 +146,7 @@
       <workItem from="1586329277416" duration="568000" />
       <workItem from="1586333054329" duration="819000" />
       <workItem from="1586348721458" duration="5462000" />
-      <workItem from="1586428080859" duration="944000" />
+      <workItem from="1586428080859" duration="1433000" />
     </task>
     <servers />
   </component>
@@ -146,6 +154,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="103" y="-927" key="#DiscoveryEurekaServerApplication" timestamp="1586429845636">
+      <screen x="-563" y="-1129" width="2048" height="1129" />
+    </state>
+    <state x="103" y="-927" key="#DiscoveryEurekaServerApplication/-563.-1129.2048.1129/0.23.1680.947@-563.-1129.2048.1129" timestamp="1586429845635" />
     <state x="440" y="192" key="#Notifications" timestamp="1586400184346">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -163,24 +175,28 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="578" y="280" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586395306624" />
-    <state width="1126" height="295" key="GridCell.Tab.0.bottom" timestamp="1586400485824">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="2006" height="313" key="GridCell.Tab.0.bottom" timestamp="1586429879994">
+      <screen x="-563" y="-1129" width="2048" height="1129" />
     </state>
+    <state width="2006" height="313" key="GridCell.Tab.0.bottom/-563.-1129.2048.1129/0.23.1680.947@-563.-1129.2048.1129" timestamp="1586429879994" />
     <state width="1126" height="295" key="GridCell.Tab.0.bottom/-563.-1440.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1586400485824" />
     <state width="1126" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1586397451306" />
-    <state width="1126" height="295" key="GridCell.Tab.0.center" timestamp="1586400485823">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="2006" height="313" key="GridCell.Tab.0.center" timestamp="1586429879994">
+      <screen x="-563" y="-1129" width="2048" height="1129" />
     </state>
+    <state width="2006" height="313" key="GridCell.Tab.0.center/-563.-1129.2048.1129/0.23.1680.947@-563.-1129.2048.1129" timestamp="1586429879994" />
     <state width="1126" height="295" key="GridCell.Tab.0.center/-563.-1440.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1586400485823" />
     <state width="1126" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1586397451305" />
-    <state width="1126" height="295" key="GridCell.Tab.0.left" timestamp="1586400485822">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="2006" height="313" key="GridCell.Tab.0.left" timestamp="1586429879993">
+      <screen x="-563" y="-1129" width="2048" height="1129" />
     </state>
+    <state width="2006" height="313" key="GridCell.Tab.0.left/-563.-1129.2048.1129/0.23.1680.947@-563.-1129.2048.1129" timestamp="1586429879993" />
     <state width="1126" height="295" key="GridCell.Tab.0.left/-563.-1440.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1586400485822" />
     <state width="1126" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1586397451304" />
-    <state width="1126" height="295" key="GridCell.Tab.0.right" timestamp="1586400485823">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="2006" height="313" key="GridCell.Tab.0.right" timestamp="1586429879994">
+      <screen x="-563" y="-1129" width="2048" height="1129" />
     </state>
+    <state width="2006" height="313" key="GridCell.Tab.0.right/-563.-1129.2048.1129/0.23.1680.947@-563.-1129.2048.1129" timestamp="1586429879994" />
     <state width="1126" height="295" key="GridCell.Tab.0.right/-563.-1440.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1586400485823" />
     <state width="1126" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1586397451306" />
     <state width="1126" height="295" key="GridCell.Tab.1.bottom" timestamp="1586400485828">
