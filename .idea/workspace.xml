@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfd35f77-bec8-4757-970c-50771cdd082d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="izukq03x" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aFLm8YAaNUd8hfJlOTOadeqjtV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/discovery-eureka-client/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/discovery-eureka-client/src/main/resources" />
+      <recent name="$PROJECT_DIR$/discovery-eureka-server/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DiscoveryEurekaServiceConsumerApplication">
+    <configuration name="DiscoveryEurekaServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="win.hgfdodo.discoveryeurekaserver.DiscoveryEurekaServerApplication" />
+      <module name="discovery-eureka-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="win.hgfdodo.discoveryeurekaserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryEurekaClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="discovery-eureka-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="win.hgfdodo.discoveryeurekaclient.DiscoveryEurekaClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryEurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="discovery-eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="win.hgfdodo.discoveryeurekaserver.DiscoveryEurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryEurekaServiceConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="discovery-eureka-service-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="win.hgfdood.discoveryeurekaserviceconsumer.DiscoveryEurekaServiceConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DiscoveryEurekaServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfd35f77-bec8-4757-970c-50771cdd082d" name="Default Changelist" comment="" />
+      <created>1586326550275</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586326550275</updated>
+      <workItem from="1586326554841" duration="583000" />
+      <workItem from="1586327148913" duration="1989000" />
+      <workItem from="1586329277416" duration="568000" />
+      <workItem from="1586333054329" duration="819000" />
+      <workItem from="1586348721458" duration="5462000" />
+      <workItem from="1586428080859" duration="611000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="192" key="#Notifications" timestamp="1586400184346">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="192" key="#Notifications/-563.-1440.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1586400184346" />
+    <state x="440" y="192" key="#Notifications/0.0.1680.1050@0.0.1680.1050" timestamp="1586326766903" />
+    <state x="440" y="192" width="813" height="666" key="#Project_Structure" timestamp="1586348670460">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="192" width="813" height="666" key="#Project_Structure/0.0.1680.1050@0.0.1680.1050" timestamp="1586348670460" />
+    <state x="673" y="433" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586348756254">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="673" y="433" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586348756254" />
+    <state x="578" y="280" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586395306624">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="578" y="280" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586395306624" />
+    <state width="1126" height="295" key="GridCell.Tab.0.bottom" timestamp="1586400485824">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1126" height="295" key="GridCell.Tab.0.bottom/-563.-1440.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1586400485824" />
+    <state width="1126" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1586397451306" />
+    <state width="1126" height="295" key="GridCell.Tab.0.center" timestamp="1586400485823">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1126" height="295" key="GridCell.Tab.0.center/-563.-1440.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1586400485823" />
+    <state width="1126" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1586397451305" />
+    <state width="1126" height="295" key="GridCell.Tab.0.left" timestamp="1586400485822">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1126" height="295" key="GridCell.Tab.0.left/-563.-1440.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1586400485822" />
+    <state width="1126" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1586397451304" />
+    <state width="1126" height="295" key="GridCell.Tab.0.right" timestamp="1586400485823">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1126" height="295" key="GridCell.Tab.0.right/-563.-1440.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1586400485823" />
+    <state width="1126" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1586397451306" />
+    <state width="1126" height="295" key="GridCell.Tab.1.bottom" timestamp="1586400485828">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1126" height="295" key="GridCell.Tab.1.bottom/-563.-1440.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1586400485828" />
+    <state width="1126" height="295" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1586397451309" />
+    <state width="1126" height="295" key="GridCell.Tab.1.center" timestamp="1586400485826">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1126" height="295" key="GridCell.Tab.1.center/-563.-1440.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1586400485826" />
+    <state width="1126" height="295" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1586397451308" />
+    <state width="1126" height="295" key="GridCell.Tab.1.left" timestamp="1586400485825">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1126" height="295" key="GridCell.Tab.1.left/-563.-1440.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1586400485825" />
+    <state width="1126" height="295" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1586397451307" />
+    <state width="1126" height="295" key="GridCell.Tab.1.right" timestamp="1586400485827">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1126" height="295" key="GridCell.Tab.1.right/-563.-1440.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1586400485827" />
+    <state width="1126" height="295" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1586397451308" />
+    <state x="378" y="188" key="Maven.ArtifactSearchDialog" timestamp="1586329152141">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="378" y="188" key="Maven.ArtifactSearchDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586329152141" />
+    <state x="341" y="164" key="SettingsEditor" timestamp="1586397885061">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="164" key="SettingsEditor/-563.-1440.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1586397885061" />
+    <state x="623" y="311" key="chooseDestDirectoryDialog" timestamp="1586396207941">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="623" y="311" key="chooseDestDirectoryDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586396207941" />
+    <state x="217" y="230" key="new project wizard" timestamp="1586395297825">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="217" y="230" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1586395297825" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1586329170650">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1586329170650" />
+  </component>
+</project>
